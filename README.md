@@ -1,6 +1,7 @@
 This repository contains the code for reproducing the experiments of the paper "Sampling from Bayesian Neural Network Posteriors with Symmetric Minibatch Splitting Langevin Dynamics" by Paulin, Whalley, Chada and Leimkuhler.
 
 The individual files contain the following:
+
 bias_test_wass.ipynb - Wasserstein bias estimates for the 1D example in Section 3.4
 
 CelebA_SMS_UBU.ipynb - SMS-UBU experiments for CelebA dataset
